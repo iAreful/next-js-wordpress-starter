@@ -1,3 +1,21 @@
+## NextJS Site
+![Screenshot 2022-06-12 at 11-42-50 My Blog](https://user-images.githubusercontent.com/15269933/173217448-d1be171c-83cf-44f9-b11a-7eb3187d933e.png)
+
+## Wordpress Site
+![wordpress version](https://user-images.githubusercontent.com/15269933/173217452-7bbab38c-b79b-4455-aaed-bc9667424a62.png)
+
+- [x] Publish
+- [ ] search option
+- [ ] dark mode
+- [ ] enhancement
+- [ ] etc
+
+
+
+
+
+
+
 # Next.js WordPress Starter
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
